@@ -4,3 +4,6 @@ video call
 anu
 lata
 sonali
+
+receive payment 
+add payment
